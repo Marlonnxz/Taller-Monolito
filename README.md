@@ -1,5 +1,6 @@
 # Taller Arquitectura Monolítica
 
+Integrante: Marlon Delgado, Edward Fonseca
 Este repositorio resuelve el taller práctico comparando un monolito altamente acoplado y uno modularizado.
 
 ## Estructura del Repositorio
